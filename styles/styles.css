@@ -270,6 +270,7 @@ section {
 }
 
 .about-stats {
+  padding-top: 4rem;
   padding-bottom: 4rem;
 }
 .about-stats .progress-bars {
@@ -344,7 +345,11 @@ section {
   background-color: var(--color-grey-5);
   transform: translateX(-50%);
 }
+/* myskill */
 
+#myskill .main-title{
+  
+}
 /*Timeline*/
 .timeline {
   display: grid;
